@@ -1,8 +1,5 @@
 # Next-Shopping-day-prediction
-Data Science Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic, self learning.
- 
  Contents
 
 ·           Machine Learning
