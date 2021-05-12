@@ -1,6 +1,5 @@
 # Next-Shopping-day-prediction
 
- Contents
 
 ·           Machine Learning
 
